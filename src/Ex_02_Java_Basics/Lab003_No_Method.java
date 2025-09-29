@@ -1,0 +1,4 @@
+package Ex_02_Java_Basics;
+
+public class Lab003_No_Method {
+}
